@@ -1789,8 +1789,8 @@ CCTV高尔夫·网球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHA
 四川｜利州,http://tv.drs.lzgbdst.com:8100/channellive/lztv2.flv
 四川｜利州,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8
 四川｜利州,http://tv.drs.lzgbdst.com:8100/channellive/lztv2.flv?zsicd
-四川｜利州,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8?zsicd
-四川｜巴中综合,https://cdn1.cditv.cn/cdtv1/CDTV1.flv/playlist.m3u8?wsSecret=a62872d1ffd159a0b8a2b4d52b8d6e07&wsTime=669a79ce
+四川｜巴中文旅,https://bzrmtlive.bzitv.cn/live/240619Bztv002002/hls.m3u8
+四川｜巴中综合,https://bzrmtlive.bzitv.cn/live/240624Bztv001001/hls.m3u8
 四川｜康定,http://kdfile.ganzitv.com/nmip-media/channellive/channel100663/playlist.m3u8
 四川｜康定,http://m3u8-kd.channel.ganzitv.com/nmip-media-yajiang/channellive/channel100663/playlist.m3u8
 四川｜康定,http://m3u8-kd.channel.ganzitv.com/nmip-media-yajiang/channellive/channel100663/playlist.m3u8?
