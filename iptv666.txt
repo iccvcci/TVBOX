@@ -1790,7 +1790,7 @@ CCTV高尔夫·网球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHA
 四川｜利州,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8
 四川｜利州,http://tv.drs.lzgbdst.com:8100/channellive/lztv2.flv?zsicd
 四川｜利州,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8?zsicd
-四川｜巴中综合,http://ocj2.kksmg.com/ocj1/ocj1.m3u8
+四川｜巴中综合,https://cdn1.cditv.cn/cdtv1/CDTV1.flv/playlist.m3u8?wsSecret=a62872d1ffd159a0b8a2b4d52b8d6e07&wsTime=669a79ce
 四川｜康定,http://kdfile.ganzitv.com/nmip-media/channellive/channel100663/playlist.m3u8
 四川｜康定,http://m3u8-kd.channel.ganzitv.com/nmip-media-yajiang/channellive/channel100663/playlist.m3u8
 四川｜康定,http://m3u8-kd.channel.ganzitv.com/nmip-media-yajiang/channellive/channel100663/playlist.m3u8?
@@ -1971,8 +1971,6 @@ CCTV高尔夫·网球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHA
 浙江｜龙游新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8?zzhed
 浙江｜龙游新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 浙江｜龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
-浙江｜龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed
-
 港·澳·台,#genre#
 凤凰卫视,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
