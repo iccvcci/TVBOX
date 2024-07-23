@@ -2037,55 +2037,6 @@ GOODTV好消息,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/l
 咪咕直播 55,http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 咪咕直播 56,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 
-百视频道,#genre#
-百视电影 2,https://bp-caster.bestv.com.cn/89/3/video.m3u8
-百视电影 3,https://bp-caster.bestv.com.cn/91/3/video.m3u8
-百视电影 4,https://bp-caster.bestv.com.cn/92/3/video.m3u8
-百视电影 5,https://bp-caster.bestv.com.cn/93/3/video.m3u8
-百视电影 6,https://bp-caster.bestv.com.cn/94/3/video.m3u8
-百视电影 7,https://bp-caster.bestv.com.cn/95/3/video.m3u8
-百视电影 8,https://bp-caster.bestv.com.cn/96/3/video.m3u8
-百视电影 9,https://bp-caster.bestv.com.cn/97/3/video.m3u8
-百视电影 10,https://bp-caster.bestv.com.cn/98/3/video.m3u8
-百视电影 11,https://bp-caster.bestv.com.cn/99/3/video.m3u8
-百视电影 12,https://bp-caster.bestv.com.cn/100/3/video.m3u8
-百视电影 13,https://bp-caster.bestv.com.cn/101/3/video.m3u8
-百视电影 14,https://bp-caster.bestv.com.cn/102/3/video.m3u8
-百视电影 15,https://bp-caster.bestv.com.cn/103/3/video.m3u8
-百视电影 16,https://bp-caster.bestv.com.cn/104/3/video.m3u8
-百视电影 17,https://bp-caster.bestv.com.cn/105/3/video.m3u8
-百视电影 18,https://bp-caster.bestv.com.cn/106/3/video.m3u8
-百视电影 19,https://bp-caster.bestv.com.cn/107/3/video.m3u8
-百视电影 20,https://bp-caster.bestv.com.cn/108/3/video.m3u8
-百视电影 21,https://bp-caster.bestv.com.cn/109/3/video.m3u8
-百视电影 22,https://bp-caster.bestv.com.cn/110/3/video.m3u8
-百视电影 23,https://bp-caster.bestv.com.cn/111/3/video.m3u8
-百视电影 24,https://bp-caster.bestv.com.cn/112/3/video.m3u8
-百视电影 25,https://bp-caster.bestv.com.cn/113/3/video.m3u8
-百视电影 26,https://bp-caster.bestv.com.cn/114/3/video.m3u8
-百视电影 27,https://bp-caster.bestv.com.cn/115/3/video.m3u8
-百视电影 28,https://bp-caster.bestv.com.cn/116/3/video.m3u8
-百视电影 29,https://bp-caster.bestv.com.cn/117/3/video.m3u8
-百视电影 30,https://bp-caster.bestv.com.cn/118/3/video.m3u8
-百视电影 31,https://bp-caster.bestv.com.cn/119/3/video.m3u8
-百视电影 32,https://bp-caster.bestv.com.cn/120/3/video.m3u8
-百视电影 33,https://bp-caster.bestv.com.cn/121/3/video.m3u8
-百视电影 34,https://bp-caster.bestv.com.cn/122/3/video.m3u8
-百视电影 35,https://bp-caster.bestv.com.cn/123/3/video.m3u8
-百视电影 36,https://bp-caster.bestv.com.cn/124/3/video.m3u8
-百视电影 37,https://bp-caster.bestv.com.cn/125/3/video.m3u8
-百视电影 38,https://bp-caster.bestv.com.cn/126/3/video.m3u8
-百视电影 40,https://bp-caster.bestv.com.cn/128/3/video.m3u8
-百视电影 41,https://bp-caster.bestv.com.cn/129/3/video.m3u8
-百视电影 42,https://bp-caster.bestv.com.cn/130/3/video.m3u8
-百视搞笑 43,https://bp-caster.bestv.com.cn/131/3/video.m3u8
-百视搞笑 44,https://bp-caster.bestv.com.cn/132/3/video.m3u8
-
-超高清频道,#genre#
-4K超高清电影,http://58.215.231.60/live2.rxip.sc96655.com/live/emdy4k_8000.m3u8
-苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-苏州4K,http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
-
 NewTV频道,#genre#
 NewTV超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 NewTV超级电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
