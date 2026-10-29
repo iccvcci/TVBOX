@@ -1,0 +1,10 @@
+#EXTM3U
+#PLAYLIST:my-playlist
+# Built with the CODECS.COM Playlist Builder
+
+#EXTINF:-1,巴中文旅
+https://livetv.bzitv.cn/live/260613BZTVlive1002/hls.m3u8
+
+#EXTINF:-1,巴中综合
+https://livetv.bzitv.cn/live/260315BZTVlive1001/hls.m3u8
+
