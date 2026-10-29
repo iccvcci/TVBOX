@@ -2,7 +2,7 @@
 #PLAYLIST:my-playlist
 # Built with the CODECS.COM Playlist Builder
 
-#EXTINF:-1,巴中文旅
+#EXTINF:-1 tvg-name="巴中文旅" tvg-logo="https://drivemby.inch.red/console/library-covers/category-6-movies.png",巴中文旅
 https://livetv.bzitv.cn/live/260613BZTVlive1002/hls.m3u8
 
 #EXTINF:-1,巴中综合
